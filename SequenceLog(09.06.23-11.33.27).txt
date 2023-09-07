@@ -1,0 +1,12 @@
+SequenceLog(09.06.23-11.33.27)
+StartUp Time: 6051908400
+
+User's name: Rotty Coyo(o)
+CPU chose color: r
+
+CPU turn 0:
+	Current hand: 9H, 6D, JD, 2C, 5H, 6H, 
+	Move: JD at (6, 3)
+Human turn 0:
+	Current hand: QD, KD, JS, 9C, AH, QC, 
+	Move: QC at (3, 2)

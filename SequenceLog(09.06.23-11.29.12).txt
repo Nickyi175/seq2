@@ -1,0 +1,112 @@
+SequenceLog(09.06.23-11.29.12)
+StartUp Time: 6526401900
+
+User's name: Rotty Coyo(c)
+CPU chose color: p
+
+CPU turn 0:
+	Current hand: 2S, 2H, 4C, 2H, QC, 10S, 
+	Move: QC at (0, 3)
+Human turn 0:
+	Current hand: 7C, 6H, 8D, QD, JD, JD, 
+	Move: QD at (7, 3)
+CPU turn 1:
+	Current hand: 2S, 2H, 4C, 2H, 10S, 5D, 
+	Move: 5D at (5, 7)
+Human turn 1:
+	Current hand: 7C, 6H, 8D, JD, JD, KC, 
+	Move: JD at (5, 5)
+CPU turn 2:
+	Current hand: 2S, 2H, 4C, 2H, 10S, 4H, 
+	Move: 4H at (8, 2)
+Human turn 2:
+	Current hand: 7C, 6H, 8D, JD, KC, 4D, 
+	Move: JD at (6, 4)
+CPU turn 3:
+	Current hand: 2S, 2H, 4C, 2H, 10S, 8S, 
+	Move: 10S at (1, 4)
+Human turn 3:
+	Current hand: 7C, 6H, 8D, KC, 4D, 9H, 
+	Move: KC at (4, 2)
+CPU turn 4:
+	Current hand: 2S, 2H, 4C, 2H, 8S, 3C, 
+	Move: 4C at (2, 8)
+Human turn 4:
+	Current hand: 7C, 6H, 8D, 4D, 9H, AH, 
+	Move: AH at (6, 5)
+CPU turn 5:
+	Current hand: 2S, 2H, 2H, 8S, 3C, KD, 
+	Move: 2H at (4, 4)
+Human turn 5:
+	Current hand: 7C, 6H, 8D, 4D, 9H, KS, 
+	Move: 6H at (3, 5)
+CPU turn 6:
+	Current hand: 2S, 2H, 8S, 3C, KD, 5C, 
+	Move: 3C at (3, 8)
+Human turn 6:
+	Current hand: 7C, 8D, 4D, 9H, KS, AH, 
+	Move: 7C at (2, 5)
+CPU turn 7:
+	Current hand: 2S, 2H, 8S, KD, 5C, 6S, 
+	Move: 2H at (7, 1)
+Human turn 7:
+	Current hand: 8D, 4D, 9H, KS, AH, 4S, 
+	Move: 9H at (4, 3)
+CPU turn 8:
+	Current hand: 2S, 8S, KD, 5C, 6S, AS, 
+	Move: 6S at (2, 1)
+Human turn 8:
+	Current hand: 8D, 4D, KS, AH, 4S, JH, 
+	Move: 4S at (4, 1)
+CPU turn 9:
+	Current hand: 2S, 8S, KD, 5C, AS, 9C, 
+	Move: 8S at (1, 2)
+Human turn 9:
+	Current hand: 8D, 4D, KS, AH, JH, AD, 
+	Move: JH at (4, 1)
+CPU turn 10:
+	Current hand: 2S, KD, 5C, AS, 9C, 10C, 
+	Move: KD at (2, 0)
+Human turn 10:
+	Current hand: 8D, 4D, KS, AH, AD, 8S, 
+	Move: 4D at (4, 7)
+CPU turn 11:
+	Current hand: 2S, 5C, AS, 9C, 10C, 9C, 
+	Move: 9C at (0, 5)
+Human turn 11:
+	Current hand: 8D, KS, AH, AD, 8S, KS, 
+	Move: 8D at (7, 6)
+CPU turn 12:
+	Current hand: 2S, 5C, AS, 9C, 10C, 3H, 
+	Move: AS at (1, 7)
+Human turn 12:
+	Current hand: KS, AH, AD, 8S, KS, QH, 
+	Move: QH at (6, 3)
+CPU turn 13:
+	Current hand: 2S, 5C, 9C, 10C, 3H, KH, 
+	Move: 9C at (2, 3)
+Human turn 13:
+	Current hand: KS, AH, AD, 8S, KS, QC, 
+	Move: AD at (6, 2)
+CPU turn 14:
+	Current hand: 2S, 5C, 10C, 3H, KH, JS, 
+	Move: 3H at (5, 4)
+Human turn 14:
+	Current hand: KS, AH, 8S, KS, QC, AS, 
+	Move: KS at (1, 6)
+CPU turn 15:
+	Current hand: 2S, 5C, 10C, KH, JS, 10H, 
+	Move: 10H at (5, 3)
+Human turn 15:
+	Current hand: AH, 8S, KS, QC, AS, 8C, 
+	Move: 8C at (2, 4)
+CPU turn 16:
+	Current hand: 2S, 5C, 10C, KH, JS, 5C, 
+	Move: 5C at (1, 8)
+Human turn 16:
+	Current hand: AH, 8S, KS, QC, AS, 5H, 
+	Move: 5H at (4, 5)
+	Move: 5H at (4, 5)
+
+Game ended at turn 16
+Winner is: Rotty Coyo, by Up-Down Streak: 4

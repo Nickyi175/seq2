@@ -1,0 +1,24 @@
+SequenceLog(09.06.23-07.04.19)
+StartUp Time: 8166082000
+
+User's name: Rotty Coyo(c)
+CPU chose color: b
+
+CPU turn 0:
+	Current hand: 10C, 10C, 9D, 5D, 3H, 4S, 
+	Move: 10C at (0, 4)
+Human turn 0:
+	Current hand: 6D, 5S, 9H, QD, 2D, 3C, 
+	Move: QD at (7, 3)
+CPU turn 1:
+	Current hand: 10C, 9D, 5D, 3H, 4S, 10H, 
+	Move: 5D at (5, 7)
+Human turn 1:
+	Current hand: 6D, 5S, 9H, 2D, 3C, KC, 
+	Move: KC at (4, 2)
+CPU turn 2:
+	Current hand: 10C, 9D, 3H, 4S, 10H, 3C, 
+	Move: 9D at (5, 0)
+Human turn 2:
+	Current hand: 6D, 5S, 9H, 2D, 3C, 8D, 
+	Move: 3C at (5, 6)
