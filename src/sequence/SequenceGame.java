@@ -14,21 +14,21 @@ import javax.swing.JFrame;
 import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.border.Border;
+
 import sequence.ASequenceCard;
-import sequence.ASequenceCard;
+
 import sequence.ASequencePlayer;
-import sequence.ASequencePlayer;
+
 import sequence.CardDealer;
-import sequence.CardDealer;
+
 import sequence.CpuSequencePlayer;
-import sequence.CpuSequencePlayer;
+
 import sequence.HumanSequencePlayer;
-import sequence.HumanSequencePlayer;
+
 import sequence.SButton;
-import sequence.SButton;
+
 import sequence.SequenceGameGUI;
-import sequence.SequenceGameGUI;
-import sequence.SequenceLog;
+
 import sequence.SequenceLog;
 public class SequenceGame {
 public char[][] board;
