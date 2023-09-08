@@ -1,0 +1,8 @@
+SequenceLog(09.07.23-12.12.55)
+StartUp Time: 6573095000
+
+Usuario Nicole(p)
+Color contrincanten
+
+Turno predeterminado 0:
+	Baraja actual 5S, 4H, 3C, 2C, 4D, 5C, 

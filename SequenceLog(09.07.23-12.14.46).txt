@@ -1,0 +1,27 @@
+SequenceLog(09.07.23-12.14.46)
+StartUp Time: 6416073300
+
+Usuario Nicole(y)
+Color contrincantey
+
+Turno predeterminado 0:
+	Baraja actual 7D, QD, 7H, JH, 8D, 9C, 
+	Movimiento: 9C de (2, 3)
+turno 20:
+	Baraja actual 6S, 2S, 3C, QC, 4C, 10D, 
+	Movimiento: 6S de (2, 1)
+Turno predeterminado 1:
+	Baraja actual 7D, QD, 7H, JH, 8D, QS, 
+	Movimiento: QS de (9, 7)
+turno 21:
+	Baraja actual 2S, 3C, QC, 4C, 10D, 7C, 
+	Movimiento: 10D de (4, 0)
+Turno predeterminado 2:
+	Baraja actual 7D, QD, 7H, JH, 8D, 3H, 
+	Movimiento: 8D de (7, 6)
+turno 22:
+	Baraja actual 2S, 3C, QC, 4C, 7C, 9H, 
+	Movimiento: 2S de (1, 9)
+Turno predeterminado 3:
+	Baraja actual 7D, QD, 7H, JH, 3H, 7S, 
+	Movimiento: 7S de (6, 9)

@@ -1,0 +1,12 @@
+SequenceLog(09.07.23-12.19.02)
+StartUp Time: 6073627400
+
+Usuario Nicole(b)
+Color contrincantey
+
+turno 2 0:
+	Baraja Actual: 3S, 5H, KD, 4H, QS, 3H, 
+	Movimiento: 4H en (5, 5)
+Turno 1 0:
+	Baraja Actual: 6C, 4S, 8H, 4S, JS, 5S, 
+	Move: 5S at (4, 9)
