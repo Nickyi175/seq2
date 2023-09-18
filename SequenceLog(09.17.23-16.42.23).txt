@@ -1,0 +1,9 @@
+SequenceLog(09.17.23-16.42.23)
+StartUp Time: 6397760500
+
+Usuario Nicole(o)
+Color contrincanteb
+
+Turno predeterminado 0:
+	Baraja actual QD, 8H, AH, JD, 5D, 7S, 
+	Movimiento: 7S de (6, 9)

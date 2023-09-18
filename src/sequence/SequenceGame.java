@@ -4,6 +4,21 @@
  */
 package sequence;
 
+import java.awt.*;
+import java.awt.Dimension;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.io.IOException;
+import java.util.ArrayList;
+import javax.swing.BorderFactory;
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.*;
+import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.SwingUtilities;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.BorderFactory;
@@ -32,6 +47,8 @@ import sequence.SequenceGameGUI;
 import sequence.SequenceLog;
 public class SequenceGame {
 public char[][] board;
+//NOMBRE JUGADORES
+    public String t1, t2, t3, t4, t5, t6, t7, t8;
 	public char ColorJugadorActual; 
 	public char gameResult = ' ';
 	public ASequencePlayer[] playerList;
@@ -146,6 +163,12 @@ public char[][] board;
 					for(int j=0; j<numberOfPlayers; j++)
 						Chris.dealCard(playerList[j]);
 				break;
+                        case 4:
+                            break;
+                        case 6:
+                            break;
+                        case 8:
+                            break;
 			default: 
 				System.out.println("AUN ESTA MEJORAS PARA MULTIJUGADOR");
 		}			
